@@ -24,4 +24,4 @@ Local Graph Alignment of Optimal Transport-Based Methods,
 </p> -->
 
 <p style="margin-top:0; font-size:0.9rem;">
-<em>* First author desgination.</em></p>
+<em>* First author designation.</em></p>
