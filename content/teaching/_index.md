@@ -5,7 +5,7 @@ cascade:
   show_breadcrumb: false
 ---
 
-<div style="padding-left:24px; padding-right:24px;">
+<div style="padding-left:10px; padding-right:10px;">
 
 <h4 style="font-size:1.3rem; margin-bottom:0.4rem;">
 University of North Carolina at Charlotte

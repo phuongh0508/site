@@ -5,7 +5,7 @@ title: Papers
 cascade:
   show_breadcrumb: false
 ---
-<div style="padding-left:24px; padding-right:24px;">
+<div style="padding-left:10px; padding-right:10px;">
 
 <p style="margin-bottom:0.2rem; margin-top:0.0rem; font-size:1rem;">
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
