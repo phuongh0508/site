@@ -14,12 +14,12 @@ href="https://arxiv.org/abs/2511.14862" target="_blank" rel="noopener">
 </a>
 </p>
 
-<p style="margin-bottom:0.3rem; font-size:1rem;">
+<!-- <p style="margin-bottom:0.3rem; font-size:1rem;">
 Local Graph Alignment of Optimal Transport-Based Methods, 
 <strong>P. N. Hoang*</strong>, K. McGoff, A. B. Nobel (2026).
 <em>In preparation.</em>
 </a>
-</p>
+</p> -->
 
 </div>
 
