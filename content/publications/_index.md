@@ -1,10 +1,12 @@
 ---
-title: Publications
+title: Papers
+#type: docs
+
+cascade:
+  show_breadcrumb: false
 ---
 
-<div style="margin-bottom:2rem;">
-
-<p style="margin-bottom:0.3rem; font-size:1rem;">
+<p style="margin-bottom:0.2rem; margin-top:0.0rem; font-size:1rem;">
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
 <strong>P. N. Hoang*</strong>, K. McGoff, A. B. Nobel, Y. Xiang, B. Yi (2025).
 <em>Submitted for publication.</em>
@@ -20,8 +22,6 @@ Local Graph Alignment of Optimal Transport-Based Methods,
 <em>In preparation.</em>
 </a>
 </p> -->
-
-</div>
 
 <p style="margin-top:0; font-size:0.9rem;">
 <em>* First author desgination.</em></p>

@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026-06-29
 type: landing
 
 sections:
@@ -18,7 +18,7 @@ sections:
       headings:
         about: 'About me'
         education: 'Education'
-        interests: 'Interests'
+        interests: 'Research interests'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:

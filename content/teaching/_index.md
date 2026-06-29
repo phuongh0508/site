@@ -1,6 +1,6 @@
 ---
 title: Teaching
-type: docs
+#type: docs
 
 cascade:
   show_breadcrumb: false
