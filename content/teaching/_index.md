@@ -7,7 +7,9 @@ cascade:
 
 <div style="padding-left:10px; padding-right:10px;">
 
-## Teaching
+<h4 style="font-size:2.8rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
+Teaching
+</h4>
 
 <h4 style="font-size:1.3rem; margin-bottom:0.4rem;">
 University of North Carolina at Charlotte

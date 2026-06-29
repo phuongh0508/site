@@ -6,7 +6,9 @@ cascade:
 ---
 <div style="padding-left:10px; padding-right:10px;">
 
-## Papers
+<h4 style="font-size:2.8rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
+Papers
+</h4>
 
 <p style="margin-bottom:0.2rem; margin-top:0.0rem; font-size:1rem;">
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
