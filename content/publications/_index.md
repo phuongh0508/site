@@ -10,9 +10,9 @@ cascade:
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
 <strong>P. N. Hoang*</strong>, K. McGoff, A. B. Nobel, Y. Xiang, B. Yi (2025).
 <em>Submitted for publication.</em>
-[<a class="btn btn-outline-primary btn-page-header btn-sm"
+<a class="btn btn-outline-primary btn-page-header btn-sm"
 href="https://arxiv.org/abs/2511.14862" target="_blank" rel="noopener">
-<i class="fas fa-file-alt"></i> arxiv]
+<i class="fas fa-file-alt"></i> [arxiv]
 </a>
 </p>
 
