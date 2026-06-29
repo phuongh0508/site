@@ -13,9 +13,9 @@ postnominals:
 #status:
   #icon: "☕️"
 role: "PhD Candidate in Applied Mathematics"
-bio: "I am a PhD candidate in Applied Mathematics at UNC Charlotte.
-  I am fortunately advised by Dr. Kevin McGoff and Dr. Andrew Nobel.
-  My current research interests are Optimal Transport in Network Science and Graph Theory. \n"
+bio: "I am a Ph.D. candidate in Applied Mathematics at UNC Charlotte.
+  I am extremely fortunate to be advised by Dr. Kevin McGoff and Dr. Andrew Nobel.
+  My current research interest is Optimal Transport in Network Science and Graph Theory.\n"
 affiliations:
   - name: "UNC Charlotte"
     #url: "https://ai.meta.com/"
