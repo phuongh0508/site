@@ -1,11 +1,12 @@
 ---
-title: Papers
+#title: Papers
 #type: docs
-
 cascade:
   show_breadcrumb: false
 ---
 <div style="padding-left:10px; padding-right:10px;">
+
+## Papers
 
 <p style="margin-bottom:0.2rem; margin-top:0.0rem; font-size:1rem;">
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
