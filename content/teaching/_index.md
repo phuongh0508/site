@@ -7,7 +7,7 @@ cascade:
 
 <div style="padding-left:12px; padding-right:12px;">
 
-<h4 style="font-size:2.6rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
+<h4 style="font-size:2.4rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
 Teaching
 </h4>
 
