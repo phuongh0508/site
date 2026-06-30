@@ -2,9 +2,9 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Phuong N. Hoang"
+  display: "Phuong N. Hoàng"
   given: "Phuong N."
-  family: "Hoang"
+  family: "Hoàng"
   alternate: ""
   pronunciation: ""
   pronouns: "she/her/hers"
@@ -15,7 +15,8 @@ postnominals:
 role: "PhD Candidate in Applied Mathematics"
 bio: "I am a Ph.D. candidate in Applied Mathematics at UNC Charlotte.
   I am extremely fortunate to be advised by Dr. [Kevin McGoff](https://pages.charlotte.edu/kevin-mcgoff/) and co-advised by Dr. [Andrew Nobel](https://nobel.web.unc.edu/).
-  My current research interest is Optimal Transport in Network Science and Graph Theory.\n"
+  My current research interest is Optimal Transport in Network Science and Graph Theory.
+  My Vietnamese name is Hoàng N. Phương."
 affiliations:
   - name: "UNC Charlotte"
     #url: "https://ai.meta.com/"
