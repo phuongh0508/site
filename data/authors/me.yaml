@@ -33,8 +33,9 @@ links:
   #- icon: "academicons/orcid"
     #url: "https://orcid.org/0000-0002-1825-0097"
 interests:
-  - "Optimal Transport"
-  - "Graph Comparison and Alignment"
+  - "optimal transport"
+  - "graph comparison and alignment"
+  - "random graph"
 education:
   - degree: "PhD in Applied Mathematics"
     institution: "UNC Charlotte"
