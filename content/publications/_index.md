@@ -13,7 +13,7 @@ Papers
 <p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
 <strong>P. N. Ho&agrave;ng*</strong>, K. McGoff, A. B. Nobel, Y. Xiang, B. Yi (2025).
-<em>Submitted for publication.</em>
+<em>Submitted.</em>
 [<a class="btn btn-outline-primary btn-page-header btn-sm"
 href="https://arxiv.org/abs/2511.14862" target="_blank" rel="noopener">
 <i class="fas fa-file-alt"></i> arxiv
