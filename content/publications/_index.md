@@ -6,11 +6,11 @@ cascade:
 ---
 <div style="padding-left:12px; padding-right:12px;">
 
-<h4 style="font-size:2.2rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
+<h4 style="font-size:2.0rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
 Papers
 </h4>
 
-<p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.9rem;">
+<p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
 <strong>P. N. Ho&agrave;ng*</strong>, K. McGoff, A. B. Nobel, Y. Xiang, B. Yi (2025).
 <em>Submitted for publication.</em>
@@ -27,14 +27,14 @@ Local Graph Alignment of Optimal Transport-Based Methods,
 </a>
 </p> -->
 
-<p style="margin-top:0; font-size:0.8rem; margin-bottom:0.8rem;">
+<p style="margin-top:0; font-size:0.85rem; margin-bottom:0.8rem;">
 <em>* First author designation.</em></p>
 
-<h4 style="font-size:1.0rem; margin-bottom:0.8rem; margin-top:0.5;">
+<h4 style="font-size:1.05rem; margin-bottom:0.8rem; margin-top:0.5;">
 Undergraduate Research
 </h4>
 
-<p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.9rem;">
+<p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
 Calder&oacute;n-Zygmund Commutators on Generalized Weighted Lorentz Spaces, T. H. Minh, N. V. T. Dat, <strong>H. N. Phuong</strong>, T. T. Dung (2022).
 <em>HCMC University of Education Journal of Science, 19(10), 1611.</em>
 [<a class="btn btn-outline-primary btn-page-header btn-sm"
@@ -43,7 +43,7 @@ href="https://journal.hcmue.edu.vn/index.php/hcmuejos/article/view/3483" target=
 </a>]
 </p>
 
-<p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.9rem;">
+<p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
 The boundedness of Calder&oacute;n-Zygmund operators of type theta on generalized weighted Lorentz spaces, T. H. Minh, N. V. T. Dat, <strong>H. N. Phuong</strong>, T. T. Dung (2022).
 <em>HCMC University of Education Journal of Science, 19(6), 844.</em>
 [<a class="btn btn-outline-primary btn-page-header btn-sm"
