@@ -11,6 +11,12 @@ Papers
 </h4>
 
 <p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
+Local Graph Alignment by Optimal Transport-based Methods, 
+<strong>P. N. Ho&agrave;ng*</strong>, K. McGoff, A. B. Nobel (2026+).
+<em>In preparation.</em>
+</p>
+
+<p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
 Optimal Graph Joining with Applications to Isomorphism Detection and Identification, 
 <strong>P. N. Ho&agrave;ng*</strong>, K. McGoff, A. B. Nobel, Y. Xiang, B. Yi (2025).
 <em>Submitted.</em>
