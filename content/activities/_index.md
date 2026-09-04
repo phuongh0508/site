@@ -39,7 +39,7 @@ Poster Presentations
 <li>2026 Jul, Applied Mathematics Workshop on PDEs, Stochastic Control, and Machine Learning, UEH, Viet Nam </li>
 </ul>
 
-<h4 style="font-size:2.0rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
+<h4 style="font-size:2.0rem; margin-top:1.0rem; margin-bottom:1.2rem; font-weight:700;">
 Recent Attendance
 </h4>
 
