@@ -39,4 +39,12 @@ Poster Presentations
 <li>2026 Jul, Applied Mathematics Workshop on PDEs, Stochastic Control, and Machine Learning, UEH, Viet Nam </li>
 </ul>
 
+<h4 style="font-size:2.0rem; margin-top:-1.5rem; margin-bottom:1.2rem; font-weight:700;">
+Recent Attendance
+</h4>
+
+<ul style="font-size:0.95rem; margin-top:0.2rem; margin-bottom:0.2rem;">
+<li>2026 Sep, Learning in Networks Bootcamp, Duke University, NC</li>
+</ul>
+
 </div>
