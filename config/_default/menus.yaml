@@ -8,11 +8,11 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: publications/
+    url: research/
     weight: 20
   - name: Teaching
     url: teaching/
     weight: 30
-  - name: Talks
-    url: talks/
+  - name: Activities
+    url: activities/
     weight: 40
