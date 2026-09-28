@@ -11,7 +11,7 @@ Papers
 </h4>
 
 <p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
-Local Graph Alignment by Optimal Transport-based Methods, 
+Local Graph Alignment of Optimal Transport-based Methods, 
 <strong>P. N. Ho&agrave;ng*</strong>, K. McGoff, A. B. Nobel (2026+).
 <em>In preparation.</em>
 </p>
