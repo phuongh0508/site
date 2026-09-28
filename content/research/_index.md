@@ -11,7 +11,7 @@ Papers
 </h4>
 
 <p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
-My research lies at the intersection of network analysis, optimal transport, and Markov chains. In my graduate work, I have proposed and analyzed optimal transport-based methods for graph alignment and comparison. 
+My research lies at the intersection of network analysis, optimal transport, and Markov chains. During my graduate studies, I have proposed and analyzed optimal transport-based methods for network alignment and comparison. 
 </p>
 
 <p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
