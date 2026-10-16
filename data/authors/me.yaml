@@ -60,8 +60,10 @@ education:
     #end: "2022"
 languages:
   - name: "Vietnamese"
+    level: ""
     label: "Native"
   - name: "English"
+    level: ""
     label: "Fluent"
 #experience:
   #- role: "Senior AI Research Scientist"
