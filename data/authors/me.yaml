@@ -13,14 +13,13 @@ postnominals:
 #status:
   #icon: "☕️"
 role: "PhD Candidate in Applied Mathematics"
-bio: bio: "I am a Ph.D. candidate in Applied Mathematics at UNC Charlotte. 
-I am extremely fortunate to be advised by Dr. [Kevin McGoff](https://pages.charlotte.edu/kevin-mcgoff/) 
-and co-advised by Dr. [Andrew Nobel](https://nobel.web.unc.edu/). 
-My research lies at the intersection of network analysis, optimal transport, and Markov chains. 
-More specifically, I have developed and analyzed robust methods for network alignment and comparison 
-leveraging ideas and techniques from optimal transport and Markov chains. 
-I am also interested in applying these techniques to real-world problems, such as the analysis of single-cell sequencing data. 
-My Vietnamese name is Hoàng N. Phương. My CV is available upon request."
+bio: "I am a Ph.D. candidate in Applied Mathematics at UNC Charlotte. 
+  I am extremely fortunate to be advised by Dr. [Kevin McGoff](https://pages.charlotte.edu/kevin-mcgoff/) and co-advised by Dr. [Andrew Nobel](https://nobel.web.unc.edu/).\n
+  My research lies at the intersection of network analysis, optimal transport, and Markov chains. 
+  More specifically, I have developed and analyzed robust methods for network alignment and comparison 
+  leveraging ideas and techniques from optimal transport and Markov chains. 
+  I am also interested in applying these techniques to real-world problems, such as the analysis of single-cell sequencing data.\n
+  My Vietnamese name is Hoàng N. Phương. My CV is available upon request."
 affiliations:
   - name: "UNC Charlotte"
     #url: "https://ai.meta.com/"
