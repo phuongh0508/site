@@ -28,7 +28,7 @@ Local Graph Alignment via Optimal Transport-based Methods,
 
 <p style="margin-bottom:0.8rem; margin-top:0.0rem; font-size:0.95rem;">
 k-Nearest Neighbors on Graphs via Optimal Transport of Random Walks,
-<strong>P. N. Ho&agrave;ng*</strong> (2026+).
+<strong>P. N. Ho&agrave;ng</strong> (2026+).
 <em>In preparation.</em>
 </p>
 
